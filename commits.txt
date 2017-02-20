@@ -1,0 +1,13 @@
+commit 47042fa2f8d8380978300b8c13ee3577c0c29f4a
+Author: 
+Rigoberto <rig.tapia@hotmail.com>
+Date:   Mon Feb 20 10:48:22 2017 -0400
+
+    incrementamos un nuevo divArticle
+
+commit 0ef37a6a1b24d40e2d40f2e2b26e6da1fa214544
+Author:
+ Rigoberto <rig.tapia@hotmail.com>
+Date:   Mon Feb 20 10:32:33 2017 -0400
+
+    Iniciamos a aprender git, con CF
